@@ -8,11 +8,9 @@
 
 </div>
 
----
-
 ## 👋 Olá! Seja bem-vindo ao meu perfil
 
-Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição para me tornar um **IA Project Manager** e **Product Manager** focado em tecnologia e produtos digitais! Aqui você encontrará projetos que integram **Inteligência Artificial**, **Machine Learning** e **tecnologias emergentes**.
+Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição para me tornar um **IA Project Manager** e **Product Manager** focado em tecnologia e produtos digitais! Aqui você encontrará projetos que integram **Inteligência Artificial**, **LLM**, **Machine Learning** e **tecnologias emergentes**.
 
 ---
 
@@ -30,7 +28,7 @@ Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição 
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Atualmente, estou cursando **Inteligência Artificial na FIAP**, onde estou me especializando em Machine Learning, IA Generativa e Processamento de Linguagem Natural.
+- 🎓 Atualmente, estou cursando **Inteligência Artificial na FIAP**, onde estou me especializando em Machine Learning, IA Generativa, LLM e Processamento de Linguagem Natural.
 - 🚀 Tenho experiência em Tokenização de NFTs, Metaverso, vendas e Transformação Digital, especialmente no setor imobiliário.
 - 🛠️ Possuo um forte background em **Machine Learning** e **Gerenciamento de Experiência do Cliente**, além de experiência em **Marketing Digital**.
 - 💼 Atuo na **Proprietà Vendas Digitais** como Digital Manager, onde implementei soluções como uma plataforma de **tokenização e fracionamento de NFTs** e participei da entrada da imobiliária no **metaverso**.
@@ -49,7 +47,7 @@ Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição 
 
 </div>
 
-- **Inteligência Artificial:** IA Generativa, Processamento de Linguagem Natural, Machine Learning
+- **Inteligência Artificial:** IA Generativa, LLM, Processamento de Linguagem Natural, Machine Learning
 - **Gestão de Produtos:** Estratégia de Produto, Análise de Dados, Planejamento de Ciclo de Vida
 - **Tecnologias Emergentes:** Blockchain, Metaverso, NFTs
 - **Experiência do Cliente:** Gerenciamento de Experiência do Cliente (CX)
@@ -66,7 +64,7 @@ Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição 
 
 ## 🌱 Em Desenvolvimento
 
-- 🧠 Ampliando minhas habilidades em **IA Generativa** e **Machine Learning** para fortalecer ainda mais minhas competências em IA.
+- 🧠 Ampliando minhas habilidades em **IA Generativa**, **LLM**, **Machine Learning** e **tecnologias emergentes** para fortalecer ainda mais minhas competências em IA.
 - 📈 Aprimorando minhas habilidades em **Gestão de Produtos Digitais**
 
 ---
@@ -76,6 +74,7 @@ Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição 
 ## 🤝 Vamos Conectar?
 
 Estou sempre aberto para discutir novos projetos e oportunidades na área de IA e Gestão de Produtos.
+
 Sinta-se à vontade para me contatar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digitalmanagerfelipesoares)
@@ -87,6 +86,5 @@ Obrigado pela visita ao meu perfil! 🚀
 
 </div>
 
----
 
 
