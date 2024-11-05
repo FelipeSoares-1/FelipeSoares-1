@@ -6,8 +6,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/felipesoares?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=felipesoares&color=blueviolet)
 
-<img src="https://lh7-us.googleusercontent.com/5-gK8R36_jfLsHK3i1fB_BD1uQqTCNiWsvnC1aiqjqMU50ZXoLBbidIKYXgNKylLE3GKGDlTqltBhr3VMcFgUdvoay58YOdGPuTvxYArn_vbTI9tLA6rlnqzN06y4zcEzkHA2OtfzCZBkwTXdhie_4Q" width="4000" alt="Futuristic tech gif">
-
 </div>
 
 ---
