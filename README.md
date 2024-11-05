@@ -57,7 +57,7 @@ Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição 
 
 ## 🌌 Projetos Principais
 
-- **NFT Tokenization Platform:** Plataforma de Tokenização de NFTs: Uma solução inovadora para o fracionamento de NFTs no setor imobiliário, tornando os investimentos acessíveis a um público mais amplo e proporcionando maior segurança e transparência em cada transação.
+- **Propland - NFT Tokenization Platform:**  Uma solução inovadora para o fracionamento de NFTs no setor imobiliário, tornando os investimentos acessíveis a um público mais amplo e proporcionando maior segurança e transparência em cada transação.
 - **Metaverse Experience:** Desenvolvimento de uma experiência imersiva no metaverso, integrando a marca a um ambiente virtual, e criando novas formas de interação e engajamento para conectar clientes a um universo digital inovador.
 
 ---
