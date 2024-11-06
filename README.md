@@ -17,7 +17,9 @@ Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição 
 <div>
 
 ### 🚀 Minha Missão
-### 💡 Inspirar inovação e usar IA para resolver problemas reais
+
+Inspirar inovação e usar IA para resolver problemas reais
+
 <img src="https://img.shields.io/badge/-Product%20Management-0A192F?style=for-the-badge&logo=producthunt&logoColor=white" />
 <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Digital%20Transformation-00C2C3?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
@@ -58,14 +60,17 @@ Sou **Felipe Soares**, um entusiasta da tecnologia e inovação, em transição 
 ## 🌌 Projetos Principais
 
 - **Propland - NFT Tokenization Platform:**  Uma solução inovadora para o fracionamento de NFTs no setor imobiliário, tornando os investimentos acessíveis a um público mais amplo e proporcionando maior segurança e transparência em cada transação.
-- **Metaverse Experience:** Desenvolvimento de uma experiência imersiva no metaverso, integrando a marca a um ambiente virtual, e criando novas formas de interação e engajamento para conectar clientes a um universo digital inovador.
+  - **Resultados:** Aumentou o acesso de investidores em 30% e um grande aumento parcerias para desenvolver produtos especificos com tokenização.
 
+- **Metaverse Experience:** Desenvolvimento de uma experiência imersiva no metaverso, integrando a marca a um ambiente virtual, e criando novas formas de interação e engajamento para conectar clientes a um universo digital inovador.
+  - **Resultados:** Engajamento de clientes 20% superior em campanhas de marca.
+ 
 ---
 
 ## 🌱 Em Desenvolvimento
 
 - 🧠 Ampliando minhas habilidades em **IA Generativa**, **LLM**, **Machine Learning** e **tecnologias emergentes** para fortalecer ainda mais minhas competências em IA.
-- 📈 Aprimorando minhas habilidades em **Gestão de Produtos Digitais**
+- 📈 Aprimorando minhas habilidades em **Gestão de Produtos Digitais** com foco em desenvolver produtos inovadores.
 
 ---
 
