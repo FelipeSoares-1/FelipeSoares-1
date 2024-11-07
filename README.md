@@ -2,9 +2,9 @@
 
 # 🌌 Felipe Soares — Transformando o Futuro com IA e Inovação
 
-![GitHub followers](https://img.shields.io/github/followers/felipesoares?style=social)
-![GitHub stars](https://img.shields.io/github/stars/felipesoares?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=felipesoares&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/felipesoares-1?style=social)
+![GitHub stars](https://img.shields.io/github/stars/felipesoares-1?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=felipesoares-1&color=blueviolet)
 
 </div>
 
