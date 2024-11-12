@@ -30,7 +30,7 @@ Inspirar inovação e usar IA para resolver problemas reais
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Atualmente, estou cursando **Inteligência Artificial na FIAP**, onde estou me especializando em Machine Learning, IA Generativa, LLM e Processamento de Linguagem Natural.
+- 🎓 Atualmente, estou cursando **Inteligência Artificial na FIAP**, ampliando minhas habilidades em **IA Generativa**, **LLM**, **Machine Learning** e **tecnologias emergentes** para fortalecer ainda mais minhas competências em IA.
 - 🚀 Tenho experiência em Tokenização de NFTs, Metaverso, vendas e Transformação Digital, especialmente no setor imobiliário.
 - 🛠️ Possuo um forte background em **Machine Learning** e **Gerenciamento de Experiência do Cliente**, além de experiência em **Marketing Digital**.
 - 💼 Atuo na **Proprietà Vendas Digitais** como Digital Manager, onde implementei soluções como uma plataforma de **tokenização e fracionamento de NFTs** e participei da entrada da imobiliária no **metaverso**.
@@ -66,15 +66,6 @@ Inspirar inovação e usar IA para resolver problemas reais
   - **Resultados:** Engajamento de clientes 20% superior em campanhas de marca.
  
 ---
-
-## 🌱 Em Desenvolvimento
-
-- 🧠 Ampliando minhas habilidades em **IA Generativa**, **LLM**, **Machine Learning** e **tecnologias emergentes** para fortalecer ainda mais minhas competências em IA.
-- 📈 Aprimorando minhas habilidades em **Gestão de Produtos Digitais** com foco em desenvolver produtos inovadores.
-
----
-
-<div>
 
 ## 🤝 Vamos Conectar?
 
