@@ -74,7 +74,7 @@ Estou sempre aberto para discutir novos projetos e oportunidades na área de IA 
 Sinta-se à vontade para me contatar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digitalmanagerfelipesoares)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:consultor.casteliano@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leader.felipesoares@gmail.com)
 
 ---
 
