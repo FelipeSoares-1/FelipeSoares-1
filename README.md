@@ -3,7 +3,7 @@
 # Felipe Soares
 ### Business Intelligence • Inteligência Artificial • Automação • Mídia & Performance
 
-Transformo grandes volumes de dados em decisões de negócio — unindo **BI**, **automação** e **IA aplicada**.
+Transformo grandes volumes de dados em decisões de negócio, unindo **BI**, **automação** e **IA aplicada**.
 
 ![GitHub followers](https://img.shields.io/github/followers/FelipeSoares-1?style=flat-square&color=0A66C2)
 ![Profile views](https://komarev.com/ghpvc/?username=FelipeSoares-1&color=0A66C2&style=flat-square)
