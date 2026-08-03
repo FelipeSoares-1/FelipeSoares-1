@@ -16,10 +16,10 @@ Transformo grandes volumes de dados em decisões de negócio — unindo **BI**, 
 
 +7 anos em tecnologia, Business Intelligence, análise de dados e automação, construindo soluções orientadas por dados que apoiam a tomada de decisão e geram resultado de negócio.
 
-- 📊 **Analista de Dados e Inteligência Artificial na Artplan** — ajudando a estruturar a área de BI da agência desde a implantação: arquitetura de dados, dashboards, indicadores, automações e produtos internos com IA para os times de mídia, criação e planejamento.
-- 🔁 Especialista em transformar **dados de mídia, comportamento e negócio** em análises acionáveis — integrando fontes, montando pipelines de ETL e automatizando rotinas para escalar a geração de insights.
-- 🤖 Aplico **IA** para acelerar análises, gerar insights e potencializar a produtividade dos times — de agentes autônomos a produtos analíticos internos.
-- 🎓 Cursando **Inteligência Artificial na FIAP** (Machine Learning, IA Generativa, NLP).
+- 📊 **Analista de Dados e Inteligência Artificial na Artplan** - ajudando a estruturar a área de BI da agência desde a implantação: arquitetura de dados, dashboards, indicadores, automações e produtos internos com IA para os times de mídia, criação e planejamento.
+- 🔁 Especialista em transformar **dados de mídia, comportamento e negócio** em análises acionáveis - integrando fontes, montando pipelines de ETL e automatizando rotinas para escalar a geração de insights.
+- 🤖 Aplico **IA** para acelerar análises, gerar insights e potencializar a produtividade dos times - de agentes autônomos a produtos analíticos internos.
+- 🎓 Formando em **Inteligência Artificial na FIAP** (Machine Learning, IA Generativa, NLP).
 
 ---
 
@@ -71,9 +71,12 @@ Transformo grandes volumes de dados em decisões de negócio — unindo **BI**, 
 ## Certificações
 
 - **AI Product Specialist**
+- **Product Management**
+- **Visão Computacional**
+- **Aprendizado de Máquina**
 - **Inteligência Artificial Aplicada a Negócios**
 - **Fundamentos de Data Science e Inteligência Artificial**
-- **AWS — Cloud Practitioner Essentials** (Discovery Day)
+- **AWS - Cloud Practitioner Essentials** 
 - **Customer Experience Management**
 
 ---
@@ -85,9 +88,4 @@ Aberto a conversas sobre **BI, dados, mídia e IA aplicada**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digitalmanagerfelipesoares)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:consultor.casteliano@gmail.com)
 
-<div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=FelipeSoares-1&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSoares-1&layout=compact&hide_border=true&langs_count=8)
-
-</div>
